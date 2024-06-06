@@ -78,12 +78,6 @@
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 </details>
 
-<details>
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@JasonGROSSO"><img src="https://holopin.me/JasonGROSSO" alt="@JasonGROSSO&#39;s Holopin board"></a></p>
-</details>
-
 <br>
 
 ## Contact me:&nbsp;
