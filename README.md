@@ -60,12 +60,12 @@
 [<img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone C" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img height="48px" width="48px" alt="Icone C++" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-[<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
-[<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
+[<img height="48px" width="48px" alt="Icone Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev)
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev)
+[<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+[<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 
   <h3>🧰 Tools:</h3>
 
