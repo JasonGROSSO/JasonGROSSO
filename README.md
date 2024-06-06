@@ -1,6 +1,6 @@
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Jason+GROSSO;A+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2AA889&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Jason+GROSSO;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
 <h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
@@ -14,13 +14,13 @@
 <br>  
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=JasonGROSSO&show_icons=true&theme=radical" alt="Jason's contributions" />
- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonGROSSO&show_icons=true&locale=en&layout=donut&theme=radical" alt="Jason's most used languages" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=JasonGROSSO&show_icons=true&theme=gotham" alt="Jason's contributions" />
+ <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonGROSSO&show_icons=true&locale=en&layout=donut&theme=gotham" alt="Jason's most used languages" />
  <div>
-    <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=JasonGROSSO&theme=radical" alt="Jason's Contribution">
+    <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=JasonGROSSO&theme=gotham" alt="Jason's Contribution">
  </div>
  <div>
-    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=JasonGROSSO&theme=redical" alt="Contributions graph">
+    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=JasonGROSSO&theme=gotham" alt="Contributions graph">
  </div>
 </div>
 
@@ -28,8 +28,8 @@
   <summary><h2>📕 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/JasonGROSSO/Moonshot-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JasonGROSSO&repo=Moonshot-project&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Moonshot Project"></a>
-    <a href="https://github.com/JasonGROSSO/video-game-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JasonGROSSO&repo=video-game-project&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Video Game Project in SFML"></a>
+    <a href="https://github.com/JasonGROSSO/Moonshot-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JasonGROSSO&repo=Moonshot-project&theme=gotham&show_icons=true" alt="Moonshot Project"></a>
+    <a href="https://github.com/JasonGROSSO/video-game-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JasonGROSSO&repo=video-game-project&theme=gotham&show_icons=true" alt="Video Game Project in SFML"></a>
   </p>
 
   <a href="https://github.com/JasonGROSSO?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
@@ -41,10 +41,10 @@
   <summary><h2>📘 Project I worked on</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-7"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-7&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-5-flutter-team-7"></a>
-    <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-4-sportshield-team-6"></a>
-    <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-4"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-4&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-3-virtual-processor-team-4"></a>
-    <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-1&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-2-x86-retrogaming-team-1"></a>
+    <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-7"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-7&theme=gotham&show_icons=true" alt="2023-2024-project-5-flutter-team-7"></a>
+    <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-6&theme=gotham&show_icons=true" alt="2023-2024-project-4-sportshield-team-6"></a>
+    <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-4"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-4&theme=gotham&show_icons=true" alt="2023-2024-project-3-virtual-processor-team-4"></a>
+    <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-1&theme=gotham&show_icons=true" alt="2023-2024-project-2-x86-retrogaming-team-1"></a>
   </p>
 
   <a href="https://github.com/JasonGROSSO?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
