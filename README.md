@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JasonGROSSO&color=blueviolet&style=plastic" alt="Jason views on profile" /> </p>
 
-- 🔭 My current project is recreating [**FROGGER in fpga**](https://github.com/algosup/2024-2025-project-1-fpga-team-4)
+- 🔭 My current project is creating a [**serious game using Godot**](https://github.com/algosup/2024-2025-project-2-serious-game-team-3)
 
 <br>
 <hr>
