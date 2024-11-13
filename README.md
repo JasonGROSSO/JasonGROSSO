@@ -45,6 +45,7 @@
     <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-6&theme=gotham&show_icons=true" alt="2023-2024-project-4-sportshield-team-6"></a>
     <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-4"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-4&theme=gotham&show_icons=true" alt="2023-2024-project-3-virtual-processor-team-4"></a>
     <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-1&theme=gotham&show_icons=true" alt="2023-2024-project-2-x86-retrogaming-team-1"></a>
+    <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-4"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-4&theme=gotham&show_icons=true" alt="2024-2025-project-1-fpga-team-4"></a>
   </p>
 
   <a href="https://github.com/JasonGROSSO?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
