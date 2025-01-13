@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JasonGROSSO&color=blueviolet&style=plastic" alt="Jason views on profile" /> </p>
 
-- 🔭 My current project is creating a [**serious game using Godot**](https://github.com/algosup/2024-2025-project-2-serious-game-team-3)
+- 🔭 My current project is developing a high-performance software solution that calculates the [**quickest path **](https://github.com/algosup/2024-2025-project-3-quickest-path-team-5) between two landmarks in the United States.
 
 <br>
 <hr>
